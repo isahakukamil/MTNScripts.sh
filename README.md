@@ -1,1 +1,0 @@
-# MTNScripts.sh
